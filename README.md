@@ -1,4 +1,7 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FAACA8,100:DDD6F3&height=180&section=header&text=WELCOME&fontColor=ffffff&fontSize=70&fontAlignY=35" />
+
+### 2024-02-25 👋
+
 
 <!--
 **sypark8393/sypark8393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
