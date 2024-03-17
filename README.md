@@ -1,10 +1,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FAACA8,100:DDD6F3&height=180&section=header&text=WELCOME&fontColor=ffffff&fontSize=70&fontAlignY=35" />
 
+# STACKS
+## Platforms & Languages
 
-e-mail: sypark8393@gmail.com<br>
-velog: https://velog.io/@sypark8393
+## Tools
 
-### 2024-02-25 👋
+<hr>
+
+# CONTACT
+<a href="sypark8393@gmail.com"><img src="https://img.shields.io/badge/Gmail-#FFFFFF?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
+
+
 
 
 <!--
