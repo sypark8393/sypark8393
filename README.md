@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FAACA8,100:DDD6F3&height=180&section=header&text=WELCOME&fontColor=ffffff&fontSize=70&fontAlignY=35" />
 
 
-e-mail: sypark8393@gmail.com
-velog: <a href="https://velog.io/@sypark8393">https://velog.io/@sypark8393</a>
+e-mail: sypark8393@gmail.com<br>
+velog: https://velog.io/@sypark8393
 
 ### 2024-02-25 👋
 
