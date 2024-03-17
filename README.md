@@ -8,7 +8,8 @@
 <hr>
 
 # CONTACT
-<a href="sypark8393@gmail.com"><img src="https://img.shields.io/badge/Gmail-#FFFFFF?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:sypark8393@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sypark8393@gmail.com"/></a>
+<a href="https://velog.io/@sypark8393"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 
 
