@@ -36,6 +36,7 @@
 
   <a href="mailto:sypark8393@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:sypark8393@gmail.com" /></a>
   <a href="https://velog.io/@sypark8393"><img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=Velog&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@sypark8393"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
   <a href="https://github.com/sypark8393"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
 </div>
 </div>
