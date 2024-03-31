@@ -32,7 +32,7 @@
 <br>
 
 <div align=center>
-  <h3>☘️ SNS & Portfolio ☘️</h3>
+  <h3>💡 SNS & Portfolio 💡</h3>
 
   <a href="mailto:sypark8393@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:sypark8393@gmail.com" /></a>
   <a href="https://velog.io/@sypark8393"><img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=Velog&logoColor=white" /></a>
